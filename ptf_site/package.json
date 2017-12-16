@@ -1,0 +1,12 @@
+{
+  "name": "prathidhwani technical forum",
+  "version": "1.0.0",
+  "description": "the official website of prathidhwani technical forum",
+  "main": "app.js",
+  "author": "sreejith mohanan",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1"
+  }
+}

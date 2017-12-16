@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13px" height="27px" viewBox="0 0 13 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="6.04060157 26.5027778 0 26.5027778 0 0.468027778 6.04060157 0.468027778 12.0812031 0.468027778 12.0812031 26.5027778 6.04060157 26.5027778"/>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---Splash-page" transform="translate(-1083.000000, -1125.000000)">
+            <g id="footer" transform="translate(0.000000, 1072.000000)">
+                <g id="Group-5" transform="translate(1083.000000, 53.095861)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"/>
+                    </mask>
+                    <g id="Clip-4"/>
+                    <path d="M2.74104567,26.5027778 L8.01178583,26.5027778 L8.01178583,13.3743167 L11.6888882,13.3743167 L12.0812031,8.97936667 L8.01178583,8.97936667 L8.01178583,6.4757 C8.01178583,5.43927222 8.22154961,5.029325 9.22841575,5.029325 L12.0812031,5.029325 L12.0812031,0.468027778 L8.43131339,0.468027778 C4.50929764,0.468027778 2.74104567,2.18563333 2.74104567,5.47479722 L2.74104567,8.97936667 L-5.66929134e-05,8.97936667 L-5.66929134e-05,13.4295778 L2.74104567,13.4295778 L2.74104567,26.5027778 Z" id="Fill-3" fill="#FFFFFF" mask="url(#mask-2)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
