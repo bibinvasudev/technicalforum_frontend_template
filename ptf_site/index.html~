@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="css/animate.css" type="text/css">
+
+    <link rel="stylesheet" href="css/app.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+
+    <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=&extension=.js"></script>
+    <script src="https://cdn.mapkit.io/v1/infobox.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+    <link href="https://cdn.mapkit.io/v1/infobox.css" rel="stylesheet">
+
+</head>
+<body>
+<div id="page">
+    <header id="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="img/logo.png" width="200px;">
+                </div>
+                <div class="col-md-7" style="margin-top: 20px;">
+                    <ul class="name">
+                        <li class="nav-item">
+                            <a class="nav-link nav-active">home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link">about</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link">activities</a>
+                        </li>
+                        <!--<li nav-item>speakers</li>-->
+                        <!--<li nav-item>sponsors</li>-->
+                        <li class="nav-item">
+                            <a class="nav-link">jobs</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link">gallery</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link">contact</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link-spl">login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section id="slide-show" class="particle-network-animation">
+        <div class="inner">
+            <div class="container">
+                <div class="row ">
+                    <div class="col-md-12 ">
+<!--
+                        <div class="text-center" style="margin-top:160px; color: white">
+                            <h5>Upcoming event</h5>
+
+                            <h2>Docker Session <span style="font-size: 20px">by</span></h2>
+                            <img width="200px" src="img/speaker_img.jpg" class="img-circle"
+                                 style="border: 4px solid white;">
+
+                            <h4 style="color: white; text-transform: uppercase;">Sreejith Mohanan</h4>
+                            <h5 style="color: white; text-transform: uppercase">CTO, xyzabc technologies pvt ltd</h5>
+                            <br>
+
+                            <a class="nav-link-spl">Register now</a>
+
+                        </div>
+-->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <section id="collage">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <main id="main" class="site-main" role="main">
+                        <section class="homegrid">
+                            <div class="container container-narrow">
+                                <div class="flexgrid">
+
+                                    <article class="col blk hoverpop">
+                                        <div class="in">
+                                            <aside class="meta">
+                                                <span class="date">Sat 8</span> / <span class="cat"><a
+                                                    href="#" rel="tag">Speaker</a>, <a
+                                                    href="#" rel="tag">Workshop</a></span>
+                                            </aside>
+                                            <h3><a href="#">Civic Design Camp</a>
+                                            </h3><span class="time"><!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+                    <svg width="31px" height="32px" viewBox="0 0 31 32" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                         xlink="http://www.w3.org/1999/xlink">
+                        <title>day icon</title>
+                        <desc>Created with Sketch.</desc>
+                        <defs>
+                            <polygon id="path-1"
+                                     points="3.94954856 3.66013623 3.94954856 0.17183672 0.134413058 0.17183672 0.134413058 3.66013623 3.94954856 3.66013623"></polygon>
+                        </defs>
+                        <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="Homepage" transform="translate(-880.000000, -1416.000000)">
+                                <g id="event---green" transform="translate(855.000000, 1185.000000)">
+                                    <g id="Event---V">
+                                        <g id="day-icon" transform="translate(25.000000, 231.000000)">
+                                            <g id="Group-11">
+                                                <path d="M13.9465383,4.48656364 L16.9433903,4.48656364 C17.1090766,4.48656364 17.2209149,4.31510909 17.1525693,4.16247273 L15.6531077,0.773109091 C15.5723356,0.5912 15.3175929,0.5912 15.2368208,0.773109091 L13.7373592,4.16247273 C13.6710847,4.31510909 13.7808519,4.48656364 13.9465383,4.48656364"
+                                                      id="Fill-4" fill="#221E1F"></path>
+                                                <path d="M25.2188025,9.60050909 C25.3285697,9.72387273 25.5294645,9.69250909 25.5978101,9.53987273 L27.0952005,6.15050909 C27.1759726,5.9686 27.004073,5.77623636 26.8156048,5.83687273 L23.3175516,6.97432727 C23.1601495,7.0266 23.1063015,7.22314545 23.2160687,7.3486 L25.2188025,9.60050909 Z"
+                                                      id="Fill-6" fill="#221E1F"></path>
+                                                <g id="Group-10" transform="translate(26.484853, 13.950127)">
+                                                    <mask id="mask-2" fill="white">
+                                                        <use xlink:href="#path-1"></use>
+                                                    </mask>
+                                                    <g id="Clip-9"></g>
+                                                    <path d="M0.134413058,0.402809091 L0.136484138,3.42835455 C0.136484138,3.59562727 0.308383734,3.70853636 0.459572536,3.63953636 L3.81472129,2.12362727 C3.99490521,2.04208182 3.99490521,1.78280909 3.81265021,1.70126364 L0.455430377,0.191627273 C0.304241575,0.124718182 0.134413058,0.235536364 0.134413058,0.402809091"
+                                                          id="Fill-8" fill="#221E1F" mask="url(#mask-2)"></path>
+                                                </g>
+                                                <path d="M5.1790375,9.5405 C5.24738312,9.69313636 5.44827783,9.7245 5.55804504,9.60113636 L7.5607789,7.34922727 C7.67054611,7.22377273 7.61669805,7.02513636 7.45929601,6.97495455 L3.96124277,5.8375 C3.77277453,5.77686364 3.60087494,5.96922727 3.68164704,6.15113636 L5.1790375,9.5405 Z"
+                                                      id="Fill-11" fill="#221E1F"></path>
+                                                <path d="M16.9440116,27.4635636 L13.9471596,27.4635636 C13.7814732,27.4635636 13.6696349,27.6350182 13.7379806,27.7876545 L15.2374421,31.1770182 C15.3182142,31.3589273 15.572957,31.3589273 15.6537291,31.1770182 L17.1531906,27.7876545 C17.2194652,27.6350182 17.1096979,27.4635636 16.9440116,27.4635636"
+                                                      id="Fill-13" fill="#221E1F"></path>
+                                                <path d="M25.597603,22.3188818 C25.5292573,22.1662455 25.3283626,22.1348818 25.2185954,22.2582455 L23.2158616,24.5101545 C23.1060944,24.6356091 23.1599424,24.8342455 23.3173445,24.8844273 L26.8153977,26.0218818 C27.0038659,26.0825182 27.1757655,25.8901545 27.0949934,25.7082455 L25.597603,22.3188818 Z"
+                                                      id="Fill-15" fill="#221E1F"></path>
+                                                <path d="M5.55783794,22.2586636 C5.44807072,22.1332091 5.24717601,22.1666636 5.17883039,22.3193 L3.68143993,25.7086636 C3.60066783,25.8905727 3.77256743,26.0829364 3.96103566,26.0223 L7.4590889,24.8848455 C7.61649094,24.8325727 7.670339,24.6360273 7.56057179,24.5105727 L5.55783794,22.2586636 Z"
+                                                      id="Fill-17" fill="#221E1F"></path>
+                                                <path d="M4.15509581,17.3791091 L4.15716689,14.3535636 C4.15716689,14.1862909 3.98733837,14.0733818 3.83614957,14.1423818 L0.478929733,15.6520182 C0.296674739,15.7335636 0.296674739,15.9928364 0.476858653,16.0743818 L3.83407849,17.5902909 C3.98526729,17.6572 4.15509581,17.5463818 4.15509581,17.3791091"
+                                                      id="Fill-19" fill="#221E1F"></path>
+                                                <path d="M15.3552865,25.0209636 C20.3134508,25.0209636 24.3334161,20.9625091 24.3334161,15.9568727 C24.3334161,10.9512364 20.3134508,6.89278182 15.3552865,6.89278182 C10.3971222,6.89278182 6.37715698,10.9512364 6.37715698,15.9568727 C6.37715698,20.9625091 10.3971222,25.0209636 15.3552865,25.0209636"
+                                                      id="Fill-21" fill="#221E1F"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg> 9:00 am – 4:00 pm</span><a href="#" class="va">View All</a></div>
+                                        <a href="#" class="social twitter">Twitter</a></article>
+                                    <article class="col blk hoverpop blkcover blkvmid blklink"
+                                             style="background-image: url(img/ppl.jpg);">
+                                        <a href="#" title="Play"><img
+                                                src="img/play.svg" alt="Play"></a>
+<iframe width="420" height="315"
+
+src="https://www.youtube.com/embed/JNN62hueafA?autoplay=1">
+
+</iframe>
+                                    </article>
+                                    <article class="col blk hoverpop blkvmid blksponsor">
+                                        <h5 class="blkdescrip"><span>2016 Official Sponsor</span></h5>
+                                        <a
+                                                href="http://www.adobe.com/" target="_blank"> <img
+                                                src="img/Adobe_standard_logo_RGB.png"
+                                                srcset="img/Adobe_standard_logo_RGB.png 2x">
+                                        </a> <a href="#" class="social facebook">Facebook</a></article>
+                                    <article class="col blk hoverpop blkvmid blksponsor">
+                                        <h5 class="blkdescrip"><span>2016 Partner</span></h5>                    <a
+                                            href="#" target="_blank"> <img
+                                            src="img/aiga2x.png"
+                                            srcset="img/aiga@2x.png 2x">
+                                    </a></article>
+                                    <article
+                                            class="col blk hoverpop blkcontent blkcover post-3633 post type-post status-publish format-standard has-post-thumbnail hentry category-news news"
+                                            style="background-image: url(img/F948CB5B-DB9B-4141-B69D-DED8468F3042-960x620.jpg);">
+                                        <a href="#">
+                                            <div class="txt">
+                                                <div class="txtdescrip"><span class="category category-news">News</span>
+                                                </div>
+                                                <h5 class="subtitle">Prathidhwani Tech Forum</h5>
+
+                                                <h3>This Prathidhwani Tech Forum Is for You</h3>
+                                            </div>
+                                        </a>
+                                    </article>
+                                    <article class="col blk hoverpop">
+                                        <div class="in">
+                                            <aside class="meta">
+                                                <span class="date">Sat 8</span> / <span class="cat"><a
+                                                    href="#" rel="tag">Panel</a></span>
+                                            </aside>
+                                            <h3><a href="#">Creative Ecosystems</a>
+                                            </h3><span class="time"><!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+                    <svg width="31px" height="32px" viewBox="0 0 31 32" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                         xlink="http://www.w3.org/1999/xlink">
+                        <title>day icon</title>
+                        <desc>Created with Sketch.</desc>
+                        <defs>
+                            <polygon id="path-1"
+                                     points="3.94954856 3.66013623 3.94954856 0.17183672 0.134413058 0.17183672 0.134413058 3.66013623 3.94954856 3.66013623"></polygon>
+                        </defs>
+                        <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="Homepage" transform="translate(-880.000000, -1416.000000)">
+                                <g id="event---green" transform="translate(855.000000, 1185.000000)">
+                                    <g id="Event---V">
+                                        <g id="day-icon" transform="translate(25.000000, 231.000000)">
+                                            <g id="Group-11">
+                                                <path d="M13.9465383,4.48656364 L16.9433903,4.48656364 C17.1090766,4.48656364 17.2209149,4.31510909 17.1525693,4.16247273 L15.6531077,0.773109091 C15.5723356,0.5912 15.3175929,0.5912 15.2368208,0.773109091 L13.7373592,4.16247273 C13.6710847,4.31510909 13.7808519,4.48656364 13.9465383,4.48656364"
+                                                      id="Fill-4" fill="#221E1F"></path>
+                                                <path d="M25.2188025,9.60050909 C25.3285697,9.72387273 25.5294645,9.69250909 25.5978101,9.53987273 L27.0952005,6.15050909 C27.1759726,5.9686 27.004073,5.77623636 26.8156048,5.83687273 L23.3175516,6.97432727 C23.1601495,7.0266 23.1063015,7.22314545 23.2160687,7.3486 L25.2188025,9.60050909 Z"
+                                                      id="Fill-6" fill="#221E1F"></path>
+                                                <g id="Group-10" transform="translate(26.484853, 13.950127)">
+                                                    <mask id="mask-2" fill="white">
+                                                        <use xlink:href="#path-1"></use>
+                                                    </mask>
+                                                    <g id="Clip-9"></g>
+                                                    <path d="M0.134413058,0.402809091 L0.136484138,3.42835455 C0.136484138,3.59562727 0.308383734,3.70853636 0.459572536,3.63953636 L3.81472129,2.12362727 C3.99490521,2.04208182 3.99490521,1.78280909 3.81265021,1.70126364 L0.455430377,0.191627273 C0.304241575,0.124718182 0.134413058,0.235536364 0.134413058,0.402809091"
+                                                          id="Fill-8" fill="#221E1F" mask="url(#mask-2)"></path>
+                                                </g>
+                                                <path d="M5.1790375,9.5405 C5.24738312,9.69313636 5.44827783,9.7245 5.55804504,9.60113636 L7.5607789,7.34922727 C7.67054611,7.22377273 7.61669805,7.02513636 7.45929601,6.97495455 L3.96124277,5.8375 C3.77277453,5.77686364 3.60087494,5.96922727 3.68164704,6.15113636 L5.1790375,9.5405 Z"
+                                                      id="Fill-11" fill="#221E1F"></path>
+                                                <path d="M16.9440116,27.4635636 L13.9471596,27.4635636 C13.7814732,27.4635636 13.6696349,27.6350182 13.7379806,27.7876545 L15.2374421,31.1770182 C15.3182142,31.3589273 15.572957,31.3589273 15.6537291,31.1770182 L17.1531906,27.7876545 C17.2194652,27.6350182 17.1096979,27.4635636 16.9440116,27.4635636"
+                                                      id="Fill-13" fill="#221E1F"></path>
+                                                <path d="M25.597603,22.3188818 C25.5292573,22.1662455 25.3283626,22.1348818 25.2185954,22.2582455 L23.2158616,24.5101545 C23.1060944,24.6356091 23.1599424,24.8342455 23.3173445,24.8844273 L26.8153977,26.0218818 C27.0038659,26.0825182 27.1757655,25.8901545 27.0949934,25.7082455 L25.597603,22.3188818 Z"
+                                                      id="Fill-15" fill="#221E1F"></path>
+                                                <path d="M5.55783794,22.2586636 C5.44807072,22.1332091 5.24717601,22.1666636 5.17883039,22.3193 L3.68143993,25.7086636 C3.60066783,25.8905727 3.77256743,26.0829364 3.96103566,26.0223 L7.4590889,24.8848455 C7.61649094,24.8325727 7.670339,24.6360273 7.56057179,24.5105727 L5.55783794,22.2586636 Z"
+                                                      id="Fill-17" fill="#221E1F"></path>
+                                                <path d="M4.15509581,17.3791091 L4.15716689,14.3535636 C4.15716689,14.1862909 3.98733837,14.0733818 3.83614957,14.1423818 L0.478929733,15.6520182 C0.296674739,15.7335636 0.296674739,15.9928364 0.476858653,16.0743818 L3.83407849,17.5902909 C3.98526729,17.6572 4.15509581,17.5463818 4.15509581,17.3791091"
+                                                      id="Fill-19" fill="#221E1F"></path>
+                                                <path d="M15.3552865,25.0209636 C20.3134508,25.0209636 24.3334161,20.9625091 24.3334161,15.9568727 C24.3334161,10.9512364 20.3134508,6.89278182 15.3552865,6.89278182 C10.3971222,6.89278182 6.37715698,10.9512364 6.37715698,15.9568727 C6.37715698,20.9625091 10.3971222,25.0209636 15.3552865,25.0209636"
+                                                      id="Fill-21" fill="#221E1F"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg> 10:30 am – 1:00 pm</span><a href="#" class="va">View All</a></div>
+                                    </article>
+                                    <article
+                                            class="col blk hoverpop blkcontent blkcover post-3643 post type-post status-publish format-standard has-post-thumbnail hentry category-articles articles"
+                                            style="background-image: url(img/DW-2955-960x640.jpg);">
+                                        <a href="#">
+                                            <div class="txt">
+                                                <div class="txtdescrip"><span class="category category-articles">Articles</span>
+                                                </div>
+                                                <h5 class="subtitle">Prathidhwani Tech Forum</h5>
+
+                                                <h3>Creative Brain Trust Podcast Recap</h3>
+                                            </div>
+                                        </a>
+                                    </article>
+                                    <article class="col blk hoverpop">
+                                        <div class="in">
+                                            <aside class="meta">
+                                                <span class="date">Sat 8</span> / <span class="cat"><a
+                                                    href="#" rel="tag">Speaker</a></span>
+                                            </aside>
+                                            <h3><a href="#">Campfire</a></h3><span class="time"><!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+                    <svg width="31px" height="32px" viewBox="0 0 31 32" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                         xlink="http://www.w3.org/1999/xlink">
+                        <title>day icon</title>
+                        <desc>Created with Sketch.</desc>
+                        <defs>
+                            <polygon id="path-1"
+                                     points="3.94954856 3.66013623 3.94954856 0.17183672 0.134413058 0.17183672 0.134413058 3.66013623 3.94954856 3.66013623"></polygon>
+                        </defs>
+                        <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="Homepage" transform="translate(-880.000000, -1416.000000)">
+                                <g id="event---green" transform="translate(855.000000, 1185.000000)">
+                                    <g id="Event---V">
+                                        <g id="day-icon" transform="translate(25.000000, 231.000000)">
+                                            <g id="Group-11">
+                                                <path d="M13.9465383,4.48656364 L16.9433903,4.48656364 C17.1090766,4.48656364 17.2209149,4.31510909 17.1525693,4.16247273 L15.6531077,0.773109091 C15.5723356,0.5912 15.3175929,0.5912 15.2368208,0.773109091 L13.7373592,4.16247273 C13.6710847,4.31510909 13.7808519,4.48656364 13.9465383,4.48656364"
+                                                      id="Fill-4" fill="#221E1F"></path>
+                                                <path d="M25.2188025,9.60050909 C25.3285697,9.72387273 25.5294645,9.69250909 25.5978101,9.53987273 L27.0952005,6.15050909 C27.1759726,5.9686 27.004073,5.77623636 26.8156048,5.83687273 L23.3175516,6.97432727 C23.1601495,7.0266 23.1063015,7.22314545 23.2160687,7.3486 L25.2188025,9.60050909 Z"
+                                                      id="Fill-6" fill="#221E1F"></path>
+                                                <g id="Group-10" transform="translate(26.484853, 13.950127)">
+                                                    <mask id="mask-2" fill="white">
+                                                        <use xlink:href="#path-1"></use>
+                                                    </mask>
+                                                    <g id="Clip-9"></g>
+                                                    <path d="M0.134413058,0.402809091 L0.136484138,3.42835455 C0.136484138,3.59562727 0.308383734,3.70853636 0.459572536,3.63953636 L3.81472129,2.12362727 C3.99490521,2.04208182 3.99490521,1.78280909 3.81265021,1.70126364 L0.455430377,0.191627273 C0.304241575,0.124718182 0.134413058,0.235536364 0.134413058,0.402809091"
+                                                          id="Fill-8" fill="#221E1F" mask="url(#mask-2)"></path>
+                                                </g>
+                                                <path d="M5.1790375,9.5405 C5.24738312,9.69313636 5.44827783,9.7245 5.55804504,9.60113636 L7.5607789,7.34922727 C7.67054611,7.22377273 7.61669805,7.02513636 7.45929601,6.97495455 L3.96124277,5.8375 C3.77277453,5.77686364 3.60087494,5.96922727 3.68164704,6.15113636 L5.1790375,9.5405 Z"
+                                                      id="Fill-11" fill="#221E1F"></path>
+                                                <path d="M16.9440116,27.4635636 L13.9471596,27.4635636 C13.7814732,27.4635636 13.6696349,27.6350182 13.7379806,27.7876545 L15.2374421,31.1770182 C15.3182142,31.3589273 15.572957,31.3589273 15.6537291,31.1770182 L17.1531906,27.7876545 C17.2194652,27.6350182 17.1096979,27.4635636 16.9440116,27.4635636"
+                                                      id="Fill-13" fill="#221E1F"></path>
+                                                <path d="M25.597603,22.3188818 C25.5292573,22.1662455 25.3283626,22.1348818 25.2185954,22.2582455 L23.2158616,24.5101545 C23.1060944,24.6356091 23.1599424,24.8342455 23.3173445,24.8844273 L26.8153977,26.0218818 C27.0038659,26.0825182 27.1757655,25.8901545 27.0949934,25.7082455 L25.597603,22.3188818 Z"
+                                                      id="Fill-15" fill="#221E1F"></path>
+                                                <path d="M5.55783794,22.2586636 C5.44807072,22.1332091 5.24717601,22.1666636 5.17883039,22.3193 L3.68143993,25.7086636 C3.60066783,25.8905727 3.77256743,26.0829364 3.96103566,26.0223 L7.4590889,24.8848455 C7.61649094,24.8325727 7.670339,24.6360273 7.56057179,24.5105727 L5.55783794,22.2586636 Z"
+                                                      id="Fill-17" fill="#221E1F"></path>
+                                                <path d="M4.15509581,17.3791091 L4.15716689,14.3535636 C4.15716689,14.1862909 3.98733837,14.0733818 3.83614957,14.1423818 L0.478929733,15.6520182 C0.296674739,15.7335636 0.296674739,15.9928364 0.476858653,16.0743818 L3.83407849,17.5902909 C3.98526729,17.6572 4.15509581,17.5463818 4.15509581,17.3791091"
+                                                      id="Fill-19" fill="#221E1F"></path>
+                                                <path d="M15.3552865,25.0209636 C20.3134508,25.0209636 24.3334161,20.9625091 24.3334161,15.9568727 C24.3334161,10.9512364 20.3134508,6.89278182 15.3552865,6.89278182 C10.3971222,6.89278182 6.37715698,10.9512364 6.37715698,15.9568727 C6.37715698,20.9625091 10.3971222,25.0209636 15.3552865,25.0209636"
+                                                      id="Fill-21" fill="#221E1F"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg> 10:00 am – 11:30 am</span><a href="#" class="va">View All</a></div>
+                                    </article>
+                                    <article class="col blk hoverpop blkvmid blksponsor">
+                                        <h5 class="blkdescrip"><span>Agency Sponsor</span></h5>
+                                        <a href="#"><img
+                                                src="img/Arcturis-Logo.png"
+                                                srcset="img/Arcturis-Logo.png 2x"
+                                                alt="Arcturis"></a>
+                                        <a href="#" class="social instagram">Instagram</a>
+                                    </article>
+                                    <article class="col blk hoverpop blkvmid blksponsor">
+                                        <h5 class="blkdescrip"><span>Agency Sponsor</span></h5>
+                                        <a href="#"><img
+                                                src="img/Spry_logo_v_rgb.png"
+                                                srcset="img/Spry_logo_v_rgb.png 2x"
+                                                alt="Spry Digital"></a>
+                                    </article>
+                                    <article class="col blk hoverpop blkvmid blksponsor">
+                                        <h5 class="blkdescrip"><span>Agency Sponsor</span></h5>
+                                        <a href="#"><img
+                                                src="img/bss-logo.png"
+                                                srcset="img/bss-logo.png 2x"
+                                                alt="Bruton Stroube Studios"></a>
+                                    </article>
+
+                                </div>
+                            </div>
+                        </section>
+                        <section class="views">
+                            <div class="container">
+                            </div>
+                        </section>
+
+                    </main>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="img/Untitled-1.png"
+                         class="vc_single_image-img attachment-full" alt=""
+                         srcset="img/Untitled-1.png 346w,
+                         img/Untitled-1-300x209.png 300w"
+                         sizes="(max-width: 346px) 100vw, 346px" width="346" height="241">
+                </div>
+                <div class="col-md-8">
+                    <h2>What is prathidhwani technical forum</h2>
+                    <h4>What is prathidhwani technical forum</h4>
+
+                    <div style="height: 25px;"></div>
+
+                    <p>Prathidhwani Technical Forum was formed with a three dimensional vision to enrich the technical skill set of IT employees, trigger innovation among them and to make sure that right people are getting into the right job.
+                        For enriching the technical skill set of IT employees- We facilitates technical sessions, workshops, hackathons and meetups for IT employees to help them keep pace with the technological advancements.
+                        For triggering innovations - We intend to spread the spirit of Innovation and Entrepreneurship among the IT employees. We are mainly encouraging technology based entrepreneurship activities. we promote research and development activities to make sure that information technology play for the common man.
+                        For getting right jobs to the right people - We act as a floor-less employment exchange. We promote the resumes, jobs and recruitment among IT employees through our various portals. We act as a platform for job-seekers and employers.
+                        Prathidhwani technicalforum has formed to redefine the rule of employee engagement by put forwarding a pro-employee alternative through "Adapt technology and Adhere Innovation"
+                        We invite you all to work with us to make better software community  for everyone.
+
+                        .
+                    </p>
+
+                    <div style="height: 15px;"></div>
+                    <div class="about-buttons">
+                        <a class="know-more">learn more</a>
+                        <a class="join-us">join us</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="activities">
+        <div class="container">
+            <div class="row">
+                <h3 class=" section-heading text-center">Activities</h3>
+                <h5 class="section-subheading text-center">These are what we do togather</h5>
+
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="event-img">
+                        <img src="img/006-demostration.png"
+                             alt="talks"
+                             width="88">
+                    </div>
+                    <div class="event-content">
+                        <div class="event-title">
+                            <h4>Workshops</h4>
+                        </div>
+                        <div class="event-text">
+                            <p>Class aptent taciti sociosqu ad litora torquent per frubia nos, per inceptos hierys
+                                nagos. Sed molestie augue sit amet leo consequat roin quis tortor.</p>
+                        </div>
+                        <div class="event-link">
+                            <a href="#" class="more-link">More details</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="event-img">
+                        <img src="img/008-conference.png"
+                             width="88">
+                    </div>
+                    <div class="event-content">
+                        <div class="event-title">
+                            <h4>Seminars</h4>
+                        </div>
+                        <div class="event-text">
+                            <p>Class aptent taciti sociosqu ad litora torquent per frubia nos, per inceptos hierys
+                                nagos. Sed molestie augue sit amet leo consequat roin quis tortor.</p>
+                        </div>
+                        <div class="event-link">
+                            <a href="#" class="more-link">More details</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="event-img">
+                        <img src="img/007-microphone.png"
+                             width="88">
+                    </div>
+                    <div class="event-content">
+                        <div class="event-title">
+                            <h4>Discussions </h4>
+                        </div>
+                        <div class="event-text">
+                            <p>Class aptent taciti sociosqu ad litora torquent per frubia nos, per inceptos hierys
+                                nagos. Sed molestie augue sit amet leo consequat roin quis tortor.</p>
+                        </div>
+                        <div class="event-link">
+                            <a href="#" class="more-link">More details</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="event-img">
+                        <img src="img/001-network.png"
+                             width="88">
+                    </div>
+                    <div class="event-content">
+                        <div class="event-title">
+                            <h4>Networking</h4>
+                        </div>
+                        <div class="event-text">
+                            <p>Class aptent taciti sociosqu ad litora torquent per frubia nos, per inceptos hierys
+                                nagos. Sed molestie augue sit amet leo consequat roin quis tortor.</p>
+                        </div>
+                        <div class="event-link">
+                            <a href="#" class="more-link">More details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="past-events">
+        <div class="inner">
+
+
+            <div class="container">
+                <h3 class="section-heading text-center white">Past events</h3>
+                <h5 class="section-subheading white text-center">These are what we do togather</h5>
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="img/speaker7-800x800.jpg">
+                    </div>
+                    <div class="col-md-8 ">
+                        <h4>Docker workshop</h4>
+                        <h5 class="name"><a href="#" class="btn-link">dharmentha khare</a></h5>
+
+
+                        <p>Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus
+                            molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl
+                            ut
+                            dapi proin quis tortor orcitiam at risus et justo praesent id metus massa, ut blandit
+                            odio.
+                            Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus
+                            molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl
+                            ut
+                            dapi proin quis tortor orcitiam at risus et justo praesent id metus massa, ut blandit
+                            odio.
+                        </p>
+
+                        <div class="event-link">
+                            <a class="link">Visit Page</a>
+                        </div>
+
+                    </div>
+                </div>
+                <div style="height: 60px;"></div>
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="img/speaker3.jpg">
+                    </div>
+                    <div class="col-md-8 ">
+                        <h4>Docker workshop</h4>
+                        <h5 class="name"><a href="#" class="btn-link">dharmentha khare</a></h5>
+
+
+                        <p>Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus
+                            molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl
+                            ut
+                            dapi proin quis tortor orcitiam at risus et justo praesent id metus massa, ut blandit
+                            odio.
+                            Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus
+                            molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl
+                            ut
+                            dapi proin quis tortor orcitiam at risus et justo praesent id metus massa, ut blandit
+                            odio.
+                        </p>
+
+                        <div class="event-link">
+                            <a class="link">Visit Page</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="speakers">
+        <div class="container">
+            <div class="row">
+                <h3 class="text-center section-heading">Speakers</h3>
+                <h5 class="section-subheading text-center">These are what we do togather</h5>
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="speaker">
+                        <div class="speaker-img">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                 sizes="263px"
+                                 srcset="img/speaker1-150x150.jpg 150w,
+                             img/speaker1-300x300.jpg 300w,
+                             img/speaker1-1024x1024.jpg 1024w,
+                             img/speaker1-800x800.jpg 800w,
+                             img/speaker1-300x300.jpg 300w,
+                             img/speaker1.jpg 1462w">
+                        </div>
+                        <div class="speaker-details">
+                            <p class="speaker-name">Ashish theevari<br>
+                                <span class="speaker-designation">Ceo, hallus infotech</span>
+                            </p>
+                            <!--<div class="speaker-social">-->
+                            <!--links to social-->
+                            <!--</div>-->
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="speaker">
+                        <div class="speaker-img">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                 sizes="263px"
+                                 srcset="img/speaker2-150x150.jpg 150w,
+                             img/speaker2-300x300.jpg 300w,
+                             img/speaker2-1024x1024.jpg 1024w,
+                             img/speaker2-800x800.jpg 800w,
+                             img/speaker2-300x300.jpg 300w,
+                             img/speaker2.jpg 1462w">
+                        </div>
+                        <div class="speaker-details">
+                            <p class="speaker-name">Ashish theevari<br>
+                                <span class="speaker-designation">Ceo, hallus infotech</span>
+                            </p>
+                            <!--<div class="speaker-social">-->
+                            <!--links to social-->
+                            <!--</div>-->
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="speaker">
+                        <div class="speaker-img">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                 sizes="263px"
+                                 srcset="img/speaker3-150x150.jpg 150w,
+                             img/speaker3-300x300.jpg 300w,
+                             img/speaker3-1024x1024.jpg 1024w,
+                             img/speaker3-800x800.jpg 800w,
+                             img/speaker3-300x300.jpg 300w,
+                             img/speaker3.jpg 1462w">
+                        </div>
+                        <div class="speaker-details">
+                            <p class="speaker-name">Ashish theevari<br>
+                                <span class="speaker-designation">Ceo, hallus infotech</span>
+                            </p>
+                            <!--<div class="speaker-social">-->
+                            <!--links to social-->
+                            <!--</div>-->
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="speaker">
+                        <div class="speaker-img">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                 sizes="263px"
+                                 srcset="img/speaker4-150x150.jpg 150w,
+                             img/speaker4-300x300.jpg 300w,
+                             img/speaker4-1024x1024.jpg 1024w,
+                             img/speaker4-800x800.jpg 800w,
+                             img/speaker4-300x300.jpg 300w,
+                             img/speaker4.jpg 1462w">
+                        </div>
+                        <div class="speaker-details">
+                            <p class="speaker-name">Ashish theevari<br>
+                                <span class="speaker-designation">Ceo, hallus infotech</span>
+                            </p>
+                            <!--<div class="speaker-social">-->
+                            <!--links to social-->
+                            <!--</div>-->
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div style="height: 50px"></div>
+            <div class="join-speaker text-center">
+                <a class="join-speaker-link">Join as Speaker</a>
+            </div>
+        </div>
+    </section>
+    <!-- speakers section ends -->
+
+
+    <!-- sponsors section -->
+    <!--
+    <section id="sponsors">
+        <div class="container">
+            <h3 class="text-center">sponsors</h3>
+            <h4 class="text-center">Platinum</h4>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="#"
+                         class="vc_single_image-img attachment-full" alt="" width="234" height="60">
+                </div>
+                <div class="col-md-4">
+                    <img src="#"
+                         class="vc_single_image-img attachment-full" alt="" width="234" height="60">
+                </div>
+                <div class="col-md-4">
+                    <img src="#"
+                         class="vc_single_image-img attachment-full" alt="" width="234" height="60">
+                </div>
+            </div>
+            <h4 class="text-center">Platinum</h4>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="#"
+                         class="vc_single_image-img attachment-full" alt="" width="234" height="60">
+                </div>
+                <div class="col-md-4">
+                    <img src="#"
+                         class="vc_single_image-img attachment-full" alt="" width="234" height="60">
+                </div>
+                <div class="col-md-4">
+                    <img src="#"
+                         class="vc_single_image-img attachment-full" alt="" width="234" height="60">
+                </div>
+            </div>
+        </div>
+    </section>
+    -->
+    <!-- sponsors section ends -->
+
+    <!-- jobs section -->
+    <!--
+    <section id="jobs">
+        <div class="container">
+            <div class="row">
+                <h3>JOBS</h3>
+
+                <div class="col-md-12">
+
+                </div>
+            </div>
+        </div>
+    </section>
+    -->
+    <!-- jobs section ends -->
+
+    <!-- gallery section -->
+    <section id="gallery">
+        <div class="inner">
+            <div class="container">
+                <div class="row">
+                    <h3 class="text-center section-heading white">Gallery</h3>
+                    <h5 class="section-subheading text-center white">These are what we do togather</h5>
+
+                    <div class="col-md-12">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!-- gallery section ends -->
+
+    <!-- social section -->
+    <!--
+    <section id="social">
+        <div class="container">
+            <div class="row">
+                <h3>Social</h3>
+
+                <div class="col-md-12">
+                </div>
+            </div>
+        </div>
+    </section>
+    -->
+    <!-- social section ends -->
+
+    <!-- location section -->
+    <section id="location">
+    </section>
+    <!-- location section ends -->
+
+    <!-- newsletter section -->
+    <!--
+    <section id="newsletter">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3>Sign up for our newsletter</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+    -->
+    <!-- newsletter section ends -->
+
+
+    <!-- contact section -->
+    <section id="contact">
+        <div class="inner">
+            <div class="container">
+                <div class="row">
+                    <h3 class="section-heading white text-center">Contact</h3>
+                    <h4 class="section-subheading white text-center">Get in touch with us</h4>
+
+                    <div class="col-md-12">
+
+                        <p>Phone no: 97845464654</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!-- contact section ends -->
+
+    <!-- footer -->
+    <footer>
+
+    </footer>
+    <!-- footer ends -->
+
+</div>
+<script type="text/javascript" src="js/main.js"></script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_nM0GnXlTTaPo9obur3H2wvYdpaHfQeI&callback=initMap"
+        type="text/javascript"></script>
+
+
+</body>
+</html>
